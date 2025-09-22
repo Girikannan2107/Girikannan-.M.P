@@ -1,0 +1,7 @@
+{
+  "name": "vision eye  - AI Guide for Visually Impaired",
+  "description": "An object detection and navigation assistant for the visually impaired, using your device's camera and AI to provide real-time audio feedback about your surroundings. It identifies obstacles, people, and objects, describing their location and proximity to enhance safety and awareness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
